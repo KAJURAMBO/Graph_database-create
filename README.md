@@ -31,3 +31,5 @@ NEO4J_PASSWORD="your_password"
 GROQ_API_KEY="your_groq_api_key"
 MODEL_NAME="your_model_name"
 
+![Visualization](https://raw.githubusercontent.com/KAJURAMBO/Graph_database-create/main/visualisation.png)
+
