@@ -1,0 +1,5 @@
+dotenv
+langchain_community
+langchain_groq
+langchain_core
+langchain_experimental
